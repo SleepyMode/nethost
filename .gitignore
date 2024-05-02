@@ -1,0 +1,7 @@
+.out/
+.vs/
+*.user
+*.filters
+TestModule/bin
+TestModule/obj
+x64/*
